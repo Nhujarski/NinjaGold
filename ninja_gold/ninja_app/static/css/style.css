@@ -1,0 +1,83 @@
+.container {
+    width: 900px;
+    height: 800px;
+}
+
+.gold {
+    height: 5%;
+    width: 80%;
+}
+
+.amount {
+    border: 2px solid black;
+    display: inline-block;
+    width: 20%;
+    color: gold;
+    background-color: black;
+}
+
+.yourgold {
+    display: inline-block;
+    
+}
+
+.farm {
+    height: 22%;
+    width: 22%;
+    border: 1px solid black;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 2%;
+    text-align: center;
+}
+
+.cave {
+    height: 22%;
+    width: 22%;
+    border: 1px solid black;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 2%;
+    text-align: center;
+}
+
+.house {
+    height: 22%;
+    width: 22%;
+    border: 1px solid black;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 2%;
+    text-align: center;
+}
+
+.casino {
+    height: 22%;
+    width: 22%;
+    border: 1px solid black;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 2%;
+    text-align: center;
+}
+
+.activities {
+    height: 10%;
+    width: 80%;
+    border: 6px solid black;
+    display: inline-block;
+    margin-left: 10%;
+}
+
+.actfoot {
+    display: inline-block;
+    margin-left: 10%;
+    margin-bottom: 1%;
+}
+
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
